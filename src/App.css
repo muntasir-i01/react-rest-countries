@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.design {
+  background-image: linear-gradient(red, rgb(230, 210, 230));
+  border: 3px solid seagreen;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 15px;
+  color: #282c34;
+}
