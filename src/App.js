@@ -1,3 +1,5 @@
+import Footer from "./components/Footer/Footer";
+import Headman from "./components/Headman/Headman";
 import Countries from "./Other-Components/Countries/Countries";
 
 /* import logo from './logo.svg';
@@ -10,12 +12,13 @@ import Header from './components/Header/Header';
 function App() {
   return (
     <div className="App">
+      <Headman></Headman>
       <Countries></Countries>
+      <Footer></Footer>
 
 
 
 
-      
       {/* <Header></Header>
       <Countries></Countries>
       <Person></Person> */}
