@@ -1,0 +1,9 @@
+.design {
+    border: 3px solid rgb(234, 238, 234);
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(157, 199, 157), rgb(70, 70, 58));
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    color: rgb(14, 45, 71);
+}
