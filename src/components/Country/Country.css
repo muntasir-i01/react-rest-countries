@@ -6,4 +6,9 @@
     margin: 15px;
     text-align: center;
     color: rgb(14, 45, 71);
+    
+}
+
+.design img {
+    width: 150px;
 }
